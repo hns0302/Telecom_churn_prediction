@@ -20,7 +20,7 @@ Telecom operators lose revenue to customer churn. This project builds an end-to-
 ---
 
 ## 3. Dataset
-- Source: Public telecom churn dataset or company dataset — replace with the actual source/link you used.  
+- Source: Public telecom churn dataset.  
 - Typical size: 5k–100k rows depending on source.
 - Typical columns (example):
   - `customerID`, `gender`, `SeniorCitizen`, `Partner`, `Dependents`
